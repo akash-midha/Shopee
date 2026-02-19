@@ -9,7 +9,7 @@ import { useEffect } from "react";
 
 
 const Navbar = () => {
-    const logo = "../public/shopeeLogo.png";
+    const logo = "/shopeeLogo.png";
     const dispatch = useDispatch();
     const { cart } = useSelector((state) => (state));
     const { theme } = useSelector((state) => (state));
