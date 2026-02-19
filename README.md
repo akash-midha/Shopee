@@ -10,11 +10,17 @@ A modern e-commerce front-end where you can browse products, add them to the car
 
 ---
 
-```markdown
+**Home – Product grid**
+
 ![Home](./screenshots/home.png)
+
+**Cart – Summary & checkout**
+
 ![Cart](./screenshots/cart.png)
+
+**Thanks – Post-checkout**
+
 ![Thanks](./screenshots/thanks.png)
-```
 
 ---
 
@@ -63,8 +69,6 @@ npm install
 # Start development server
 npm run dev
 ```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Scripts
 
