@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { NavLink } from "react-router-dom";
 import { FaMoon } from "react-icons/fa";
 import { BsSun } from "react-icons/bs";
-import { toggle } from "../redux/Slices/themeSlice";
+import { toggle } from "../redux/slices/themeSlice";
 import { useEffect } from "react";
 
 
